@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "スーパー愛したい",
+  "base_artist": "ねぐせ。",
+  "createdAt": "2026-03-26T05:20:09.572829Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スーパー愛したい",
+      "artist": "ねぐせ。",
+      "has_synced": true,
+      "path": "select/01_スーパー愛したい_ねぐせ。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スーパー愛したい",
+      "artist": "ねぐせ。",
+      "has_synced": false,
+      "path": "select/pl_01_スーパー愛したい_ねぐせ。.txt"
+    }
+  ]
+}
